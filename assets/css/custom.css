@@ -1,0 +1,36 @@
+ul#actions{
+    padding:0;
+    margin:0;
+    float:right;
+    width:180px;
+    padding:5px;
+    background:#f4f4f4;
+    border:#ccc 1px solid;
+}
+
+ul#actions li{
+    padding:2px 0 2px 15px;
+    margin:0;
+    list-style:none;
+}
+
+ul.list_items li{
+    padding:5px;
+    border-bottom:1px #ccc dashed;
+    list-style:square;
+}
+
+ul#info{
+    padding:6px;
+    margin:0;
+    background:#f4f4f4;
+    border:dashed 1px #ccc;
+    width:65%;
+}
+
+ul#info li{
+    padding:0;
+    margin:0;
+    list-style:none;
+    line-height:1.7em;
+}
